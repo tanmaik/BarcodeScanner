@@ -6,3 +6,6 @@
 a simple iOS app to scan ean8 & ean13
 made with AVFoundation and UIKit
 
+```
+git clone https://github.com/tanmaik/BarcodeScanner
+```
