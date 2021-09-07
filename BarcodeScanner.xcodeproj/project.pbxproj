@@ -22,7 +22,7 @@
 		31AEDEF126E7007A00C87D61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		31AEDEF326E7007A00C87D61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		31AEDEF926E703B600C87D61 /* ScannerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerVC.swift; sourceTree = "<group>"; };
-		31AEDEFB26E7083900C87D61 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		31AEDEFC26E708F900C87D61 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +39,7 @@
 		31AEDEDE26E7007700C87D61 = {
 			isa = PBXGroup;
 			children = (
+				31AEDEFC26E708F900C87D61 /* README.md */,
 				31AEDEE926E7007700C87D61 /* BarcodeScanner */,
 				31AEDEE826E7007700C87D61 /* Products */,
 			);
@@ -61,7 +62,6 @@
 				31AEDEF326E7007A00C87D61 /* Info.plist */,
 				31AEDEF026E7007A00C87D61 /* Preview Content */,
 				31AEDEF926E703B600C87D61 /* ScannerVC.swift */,
-				31AEDEFB26E7083900C87D61 /* README.md */,
 			);
 			path = BarcodeScanner;
 			sourceTree = "<group>";
